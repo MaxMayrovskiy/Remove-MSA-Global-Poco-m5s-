@@ -1,0 +1,17 @@
+remove_msa_v2/
+├── backup/
+├── logs/
+├── system/
+│   └── product/
+│       └── app/
+│           └── MSA-Global/
+│               └── .replace
+├── Install
+├── Modules
+├── Reboot
+├── select
+├── config.prop
+├── module.prop
+├── service.sh
+├── uninstall.sh
+└── README.txt
