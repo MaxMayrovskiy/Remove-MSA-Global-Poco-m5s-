@@ -4,8 +4,7 @@ remove_msa_v2/
 ├── system/
 │   └── product/
 │       └── app/
-│           └── MSA-Global/
-│               └── .replace
+│           └── MSA-Global
 ├── Install
 ├── Modules
 ├── Reboot
@@ -14,4 +13,6 @@ remove_msa_v2/
 ├── module.prop
 ├── service.sh
 ├── uninstall.sh
-└── README.txt
+├── customize.sh
+└── README.md
+
