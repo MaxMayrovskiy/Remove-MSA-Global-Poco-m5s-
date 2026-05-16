@@ -1,1 +1,2 @@
-#!/system/bin/sh log -t remove_msa_v2 'Module removed. Restoring original...'
+#!/system/bin/sh
+log -t MSA-disabler "Module uninstalled. System will restore defaults after reboot."
