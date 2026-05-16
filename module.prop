@@ -1,4 +1,6 @@
-id=remove_msa_v3
-name=MSA-Disabler
+id=MSA-disabler
+name=Remove MSA-Global v3 (Safe)
 version=3.0
+versionCode=3
 author=MaxM
+description=Removes/hides MSA-Global from /product/app. Includes device brand safety check.
