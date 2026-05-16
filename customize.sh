@@ -1,5 +1,11 @@
 #!/system/bin/sh
 
+# Greeting when flashing the module
+ui_print "======================="
+ui_print "     MSA-Disabler      "
+ui_print "======================="
+ui_print ""
+
 # Get device information
 BRAND=$(getprop ro.product.brand)
 MANUFACTURER=$(getprop ro.product.manufacturer)
